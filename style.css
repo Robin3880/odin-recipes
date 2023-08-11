@@ -1,0 +1,35 @@
+* {
+    background-color: #a2b9bc;
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 38px;
+
+}   
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: auto;
+
+}
+a {
+    color: #6b5b95;
+}
+
+.recipe-list {
+    display: flex;
+    padding: 200px;
+    list-style: none;
+}
+
+.recipe-list li {
+   margin-right: 200px;
+
+}
+.contents h2 {
+    padding-left: 20px;
+}
